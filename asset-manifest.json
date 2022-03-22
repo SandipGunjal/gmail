@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gmail/static/css/main.807fd115.css",
+    "main.js": "/gmail/static/js/main.730b55b2.js",
+    "static/js/787.7db4e261.chunk.js": "/gmail/static/js/787.7db4e261.chunk.js",
+    "static/media/logo.svg": "/gmail/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gmail/index.html",
+    "main.807fd115.css.map": "/gmail/static/css/main.807fd115.css.map",
+    "main.730b55b2.js.map": "/gmail/static/js/main.730b55b2.js.map",
+    "787.7db4e261.chunk.js.map": "/gmail/static/js/787.7db4e261.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.807fd115.css",
+    "static/js/main.730b55b2.js"
+  ]
+}
